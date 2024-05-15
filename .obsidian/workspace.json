@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "cebad1c01b41feab",
+    "type": "split",
+    "children": [
+      {
+        "id": "049e2c016ab7fa74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58bf0115c65a623a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ab9abf755e216a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9a7f027aa3b1c48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4ae4d22e6fcc881",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14483782d6526ce4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6880bd64fa31c311",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 368.5
+  },
+  "right": {
+    "id": "e680f97982f579b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d51179a63b671801",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1e4b1886a4b49ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Core/Rating Dimensions/Overall Quality.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd4c389273e59255",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Core/Rating Dimensions/Overall Quality.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e83d7973a66bb94f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "568611783c40a828",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Core/Rating Dimensions/Overall Quality.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e4ae4d22e6fcc881",
+  "lastOpenFiles": [
+    "Core/Rating Dimensions/Justification.md",
+    "Core/Tasks Walkthrough/Example Tasks/Example Task 1.md",
+    "Shared/Snippets.md",
+    "Shared",
+    "Rating Dimensions Overview for Tasking.md",
+    "Core/Tasks Walkthrough/Example Tasks",
+    "Core/Rating Dimensions/Writing Quality.md",
+    "Core/Rating Dimensions/Verbosity.md",
+    "Core/Rating Dimensions/Truthfulness.md",
+    "Core/Rating Dimensions/Overall Quality.md",
+    "Core/Rating Dimensions/Instruction Following.md",
+    "Core/Rating Dimensions/Harmlessness.md",
+    "Core/Rating Dimensions/Comparison.md",
+    "Core/Rating Dimensions",
+    "Assets/Tasks Walkthrough/Example Tasks/Example Task 1 - Response 2.png",
+    "Assets/Tasks Walkthrough/Example Tasks/Example Task 1 - Response 1.png",
+    "Assets/Tasks Walkthrough/Example Tasks",
+    "Assets/Rating Dimensions/Writing Quality/Writing Quality Rating Rubric.png",
+    "Assets/Rating Dimensions/Writing Quality/Writing Quality Rating Examples.pdf",
+    "Assets/Rating Dimensions/Writing Quality/Writing Quality Justification Example.pdf",
+    "Assets/Rating Dimensions/Writing Quality",
+    "Assets/Rating Dimensions/Verbosity/Verbosity Rating Rubric.png",
+    "Assets/Rating Dimensions/Verbosity/Verbosity Rating Examples.pdf",
+    "Assets/Rating Dimensions/Verbosity",
+    "Assets/Rating Dimensions/Truthfulness/Truthfulness Rating Rubric.pdf",
+    "Assets/Rating Dimensions/Overall Quality/Overall Quality Reasoning Rubric.png",
+    "Assets/Rating Dimensions/Instruction Following/Instruction Following Rating Rubric.png",
+    "Assets/Rating Dimensions/Harmlessness/Harmlessness Rating Rubric.png",
+    "Justification/Untitled.md",
+    "Pasted image 20240510175731.png",
+    "Pasted image 20240510175604.png",
+    "Subjects/Estrutura de Dados.canvas",
+    "Subjects/Computer Systems.canvas",
+    "Relations/Estruturas de dados e algoritmos computacionais.canvas",
+    "Facts/Estruturas de dados.md",
+    "Facts/Computer systems.md",
+    "Facts/Bytes.md",
+    "Facts/Bits.md",
+    "Facts/ASCII standard.md",
+    "Subjects/Information is bits.canvas",
+    "Facts/Source program.md",
+    "Facts/Source.md",
+    "Facts/Source-program.md",
+    "Source.md",
+    "Facts/Algoritmos computacionais.md",
+    "facts/computer system.md",
+    "Facts/Ponteiro.md",
+    "sua mãa.md"
+  ]
+}
